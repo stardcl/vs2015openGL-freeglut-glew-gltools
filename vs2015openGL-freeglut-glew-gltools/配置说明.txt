@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------
 一. 头文件的配置
 3.将本文件夹中include文件夹下的所有头文件都拷贝到2中的include文件夹下。
-(如果2中已经存在GL文件夹，千万别替换，分别将GL里外头文件拷贝至include\GL文件夹和include就好)
+(如果2中已经存在GL文件夹，千万别替换，分别将GL里边和外边的头文件拷贝至include\GL文件夹和include就好)
 
 二.dll文件
 4.将配置包中freeglut.dll、freeglutd.dll、glew32.dll拷贝到“VS2015\VC\bin”目录下，glew32d.dll拷贝到D:\VS2015\VC\bin\amd64。
